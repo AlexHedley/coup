@@ -2,19 +2,57 @@
     "games": [
         {
             "id": 1,
-            "name": "",
-            "date": "2021-01-01",
+            "name": "1st",
+            "date": "2021-06-12",
             "description": "",
             "players": [
                 {
-                    "name": "",
-                    "score": 0,
-                    "winner": true
+                    "name": "Jonathan",
+                    "winner": true,
+                    "position": "1st"
                 },
                 {
-                    "name": "",
-                    "score": 0,
-                    "winner": false
+                    "name": "Corbs",
+                    "winner": false,
+                    "position": "2nd"
+                },
+                {
+                    "name": "Alex",
+                    "winner": false,
+                    "position": "3rd"
+                },
+                {
+                    "name": "Sam",
+                    "winner": false,
+                    "position": "4th"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "2nd",
+            "date": "2021-06-12",
+            "description": "",
+            "players": [
+                {
+                    "name": "Jonathan",
+                    "winner": true,
+                    "position": "1st"
+                },
+                {
+                    "name": "Corbs",
+                    "winner": false,
+                    "position": "2nd"
+                },
+                {
+                    "name": "Sam",
+                    "winner": false,
+                    "position": "3rd"
+                },
+                {
+                    "name": "Alex",
+                    "winner": false,
+                    "position": "4th"
                 }
             ]
         }

@@ -1,11 +1,16 @@
-# GAMENAME
+# Coup
 
-![](images/GAMENAME.jpeg "")
+![Coup](images/coup.jpg "Coup")
 
 ## Site
 
 - [local](http://localhost:8000/)
-- [Published](https://alexhedley.github.io/REPONAME)
+- [Published](https://alexhedley.github.io/coup)
+
+## Game
+
+- https://boardgamegeek.com/boardgame/131357/coup
+- http://indieboardsandcards.com/index.php/our-games/coup/
 
 ## Run
 
